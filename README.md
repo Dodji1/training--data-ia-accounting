@@ -3,7 +3,7 @@
 Maquette fonctionnelle pour un tableau de bord Ventes & Stocks (Power BI).
 Ce repository propose la structure en 4 pages avec objectifs, KPI, visuels et filtres recommandés.
 
-![alt text](mockup\img\image.png)
+![alt text](mockup/img/image.png)
 ---
 
 ## Sommaire
